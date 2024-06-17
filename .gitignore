@@ -1,0 +1,5 @@
+Lib/
+__pycache__
+Include/
+venv/
+Scripts/
