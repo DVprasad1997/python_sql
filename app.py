@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def status():
-    return "Hi this API is working"
+    return "Hi this API is working "
 
 @app.route('/getdata')
 def get_json_data():
